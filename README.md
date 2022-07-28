@@ -1,2 +1,2 @@
 # jenkins-demo
-demo repo for jenkins projects
+demo repo for jenkins projects edited
